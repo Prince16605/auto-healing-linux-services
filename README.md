@@ -219,3 +219,6 @@ CRITICAL: nginx restart failed
 
 **Project:** Auto-Healing Linux Services  
 **Focus:** Linux Administration | AWS | Ansible | Bash Automation | Service Reliability
+
+Author 
+**Prince Vaghasiya**

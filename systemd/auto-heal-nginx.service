@@ -1,0 +1,6 @@
+[Unit]
+Description=Auto-Heal Nginx Service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/auto_heal_nginx.sh

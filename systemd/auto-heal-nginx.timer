@@ -1,0 +1,10 @@
+[Unit]
+Description=Check Nginx Every Minute
+
+[Timer]
+OnBootSec=30s
+OnUnitActiveSec=1min
+Unit=auto-heal-nginx.service
+
+[Install]
+WantedBy=timers.target
